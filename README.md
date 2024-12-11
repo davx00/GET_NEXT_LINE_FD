@@ -142,13 +142,6 @@ valgrind --leak-check=full ./your_program_name test.txt
 
 ---
 
-## 🤝 **Contributing**
-If you'd like to contribute to this project, feel free to submit a pull request. Please ensure your code follows the 42 **norminette** and has no memory leaks.
-
----
-
-## 📜 **License**
-This project is open-source and available under the **MIT License**. Feel free to use, modify, and distribute it.
 
 ---
 
