@@ -1,3 +1,4 @@
+
 # 📘 Get Next Line (GNL)
 
 ## 📝 **Description**
@@ -92,10 +93,11 @@ int main(void) {
 - **get_next_line(int fd)**: The main function that reads a line from the file descriptor.
 
 ### **get_next_line_utils.c**
+- **ft_calloc()**: Allocates memory for an array of elements and initializes it to zero.
 - **ft_strjoin()**: Joins two strings into one.
-- **ft_strdup()**: Duplicates a string.
-- **ft_strchr()**: Locates a character in a string.
+- **ft_strlcpy()**: Copies a string to a buffer, ensuring it is null-terminated.
 - **ft_strlen()**: Computes the length of a string.
+- **ft_strdup()**: Duplicates a string.
 
 ---
 
