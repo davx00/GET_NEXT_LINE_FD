@@ -9,7 +9,7 @@
 /*   Updated: 2024/12/12 12:46:08 by despanol         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 int	contains_newline(char *str)
 {
